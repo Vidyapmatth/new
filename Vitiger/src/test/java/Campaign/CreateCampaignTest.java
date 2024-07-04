@@ -27,7 +27,6 @@ import io.github.bonigarcia.wdm.WebDriverManager;
 
 public class CreateCampaignTest extends BaseClass {
 
-	//hi first pull
 //@Test(groups ="SystemTesting")
 //@Test(retryAnalyzer = Generic_Utilities.RetryImplementation.class)
 @Test
